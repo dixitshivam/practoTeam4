@@ -1,0 +1,17 @@
+{% extends "basic_template.html" %}
+<!DOCTYPE html>
+<html lang="en">
+	{% block content %}
+		<div class="panel panel-default panel-heading text-center" id="search-box">
+			<form class="form-inline" role="form">
+				<div class="form-group">
+					<input name="city" class="form-control input-lg" id="city" type="text" placeholder="eg. Bangalore, Mumbai">
+				</div>
+				<button class='btn btn-default btn-lg' type="button" id="search-btn"><span class="glyphicon glyphicon-search"></span> Search</button>
+			</form>
+		</div>
+	{% endblock %}
+	{% block scripts %}
+		<script src="{{ functionsJS }}"></script>
+	{% endblock %}
+</html>

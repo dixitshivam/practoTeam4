@@ -1,0 +1,426 @@
+[
+  {
+    "doctorid": 0,
+    "name": "Deidre Curry",
+    "education": "MD",
+    "experience": 4,
+    "description": "Qui et magna enim adipisicing incididunt aliquip ex sunt magna tempor. Deserunt dolor magna excepteur esse est duis dolor. Sit Lorem incididunt ut dolor ea velit qui labore ad ex pariatur. Id deserunt incididunt esse eiusmod et reprehenderit aliquip laborum ad.\r\n",
+    "specialization": "<ReferenceError: Dermatologist is not defined>",
+    "recommendations": 90,
+    "picture": "undefined",
+    "clinics": [
+      {
+        "clinicid": 6,
+        "area": "HSR Layout",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 800,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      }
+    ]
+  },
+  {
+    "doctorid": 1,
+    "name": "Wilder Wiley",
+    "education": "MBBS",
+    "experience": 12,
+    "description": "Nulla minim ut officia amet pariatur. Et veniam consectetur reprehenderit anim laboris veniam quis ipsum commodo. Fugiat enim ut pariatur ut dolore eu. Ut tempor pariatur et cillum dolor do. Quis laborum proident adipisicing est sunt duis laboris incididunt cillum sint fugiat eu. Nisi dolor eiusmod cupidatat reprehenderit quis pariatur commodo. Velit mollit aute consectetur voluptate nostrud laborum ex id proident incididunt qui.\r\n",
+    "specialization": "<ReferenceError: Dermatologist is not defined>",
+    "recommendations": 68,
+    "picture": "undefined",
+    "clinics": [
+      {
+        "clinicid": 26,
+        "area": "JP Nagar",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 700,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      },
+      {
+        "clinicid": 79,
+        "area": "Arakere",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 800,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      }
+    ]
+  },
+  {
+    "doctorid": 2,
+    "name": "English Mcclure",
+    "education": "MD",
+    "experience": 1,
+    "description": "Aute enim sunt voluptate laboris enim sunt quis cillum est laborum do nostrud. Eiusmod fugiat fugiat adipisicing consectetur culpa ullamco proident. Ea aliqua sit laborum officia aute fugiat irure ad ullamco.\r\n",
+    "specialization": "<ReferenceError: Dermatologist is not defined>",
+    "recommendations": 87,
+    "picture": "undefined",
+    "clinics": [
+      {
+        "clinicid": 58,
+        "area": "Andheri",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 800,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      }
+    ]
+  },
+  {
+    "doctorid": 3,
+    "name": "Nannie Parks",
+    "education": "MBBS",
+    "experience": 9,
+    "description": "Enim culpa nulla sunt reprehenderit in sunt laborum esse duis velit minim exercitation. Ipsum laboris irure culpa excepteur. Reprehenderit commodo quis cillum et. Dolore consectetur non nulla fugiat laboris culpa nostrud eiusmod aliquip elit nulla officia ex. Et et laborum tempor pariatur ex. Esse labore laboris nulla ea culpa. Id mollit amet enim et enim aliquip sunt mollit excepteur voluptate officia sunt incididunt.\r\n",
+    "specialization": "<ReferenceError: Dermatologist is not defined>",
+    "recommendations": 25,
+    "picture": "undefined",
+    "clinics": [
+      {
+        "clinicid": 20,
+        "area": "Collectorate",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 10000,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      }
+    ]
+  },
+  {
+    "doctorid": 4,
+    "name": "Gill Noble",
+    "education": "MBBS",
+    "experience": 8,
+    "description": "Est in culpa laborum veniam fugiat exercitation. Incididunt ex aliqua minim deserunt magna irure proident laboris irure veniam nostrud laborum exercitation. Magna excepteur cupidatat aliqua amet cillum proident proident nulla nulla nostrud ipsum. Eu aliquip sint duis incididunt ex cillum non amet elit velit.\r\n",
+    "specialization": "<ReferenceError: Dermatologist is not defined>",
+    "recommendations": 85,
+    "picture": "undefined",
+    "clinics": [
+      {
+        "clinicid": 15,
+        "area": "Andheri",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 600,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      }
+    ]
+  },
+  {
+    "doctorid": 5,
+    "name": "Leah Merritt",
+    "education": "MD",
+    "experience": 12,
+    "description": "Velit exercitation veniam amet pariatur commodo sit ut laborum deserunt adipisicing ad. Velit eiusmod nulla irure mollit. Amet tempor incididunt cupidatat in cupidatat eiusmod esse ullamco anim ad consectetur eu dolor et. Id nulla Lorem adipisicing laboris. Occaecat elit duis occaecat laboris incididunt culpa excepteur.\r\n",
+    "specialization": "<ReferenceError: Dermatologist is not defined>",
+    "recommendations": 94,
+    "picture": "undefined",
+    "clinics": [
+      {
+        "clinicid": 30,
+        "area": "Andheri",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 800,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      },
+      {
+        "clinicid": 77,
+        "area": "Arakere",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 10000,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      }
+    ]
+  },
+  {
+    "doctorid": 6,
+    "name": "Lily Petersen",
+    "education": "MBBS",
+    "experience": 4,
+    "description": "Qui ipsum irure nostrud laboris laborum Lorem est. Laboris aliqua ex in ad esse dolore non mollit labore consectetur pariatur eiusmod exercitation magna. Proident esse labore dolor sit adipisicing deserunt aliquip elit et dolore nulla do. Ut minim occaecat cupidatat nostrud laborum eu duis ea non ullamco dolore esse. Culpa esse ullamco consequat aute ea ad nostrud id excepteur deserunt ex. Fugiat pariatur et consectetur aute esse magna id commodo laboris nisi sint duis sunt ipsum.\r\n",
+    "specialization": "<ReferenceError: Dermatologist is not defined>",
+    "recommendations": 3,
+    "picture": "undefined",
+    "clinics": [
+      {
+        "clinicid": 67,
+        "area": "Koti",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 10000,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      },
+      {
+        "clinicid": 87,
+        "area": "Arakere",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 500,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      }
+    ]
+  },
+  {
+    "doctorid": 7,
+    "name": "Debbie Zimmerman",
+    "education": "BMS",
+    "experience": 7,
+    "description": "Ad Lorem veniam aute velit velit et. Dolor fugiat exercitation mollit culpa ea fugiat. Magna ad exercitation laboris laboris aute voluptate voluptate exercitation reprehenderit ad irure.\r\n",
+    "specialization": "<ReferenceError: Dermatologist is not defined>",
+    "recommendations": 45,
+    "picture": "undefined",
+    "clinics": [
+      {
+        "clinicid": 80,
+        "area": "Cyberabad",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 600,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      },
+      {
+        "clinicid": 21,
+        "area": "HSR Layout",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 400,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      }
+    ]
+  },
+  {
+    "doctorid": 8,
+    "name": "Jacklyn Rice",
+    "education": "MD",
+    "experience": 9,
+    "description": "Irure ullamco nulla ut irure sunt. Eu cupidatat commodo laborum culpa consectetur id duis Lorem reprehenderit dolore esse veniam. Lorem excepteur qui cillum ea et officia minim. Duis aliqua ipsum laborum eu adipisicing adipisicing fugiat quis id elit ea minim non do.\r\n",
+    "specialization": "<ReferenceError: Dermatologist is not defined>",
+    "recommendations": 1,
+    "picture": "undefined",
+    "clinics": [
+      {
+        "clinicid": 7,
+        "area": "Collectorate",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 500,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      }
+    ]
+  },
+  {
+    "doctorid": 9,
+    "name": "Leonor Velasquez",
+    "education": "MD",
+    "experience": 3,
+    "description": "In do deserunt exercitation in. Commodo in ad consequat nulla cillum et cupidatat sit ea fugiat. Ullamco Lorem consequat anim fugiat cillum velit nisi tempor. Labore pariatur ad et aute fugiat proident cillum. Do quis mollit excepteur fugiat.\r\n",
+    "specialization": "<ReferenceError: Dermatologist is not defined>",
+    "recommendations": 52,
+    "picture": "undefined",
+    "clinics": [
+      {
+        "clinicid": 53,
+        "area": "Cyberabad",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 700,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      },
+      {
+        "clinicid": 21,
+        "area": "Koti",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 10000,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      },
+      {
+        "clinicid": 28,
+        "area": "Madhapur",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 900,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      }
+    ]
+  },
+  {
+    "doctorid": 10,
+    "name": "Lynn Sullivan",
+    "education": "BMS",
+    "experience": 8,
+    "description": "Proident proident duis deserunt laborum ex elit eu veniam laborum dolor sit dolore aute. Anim reprehenderit laboris veniam commodo veniam mollit labore ad enim officia nisi mollit. Occaecat ipsum incididunt voluptate nulla.\r\n",
+    "specialization": "<ReferenceError: Dermatologist is not defined>",
+    "recommendations": 74,
+    "picture": "undefined",
+    "clinics": [
+      {
+        "clinicid": 98,
+        "area": "HSR Layout",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 500,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      },
+      {
+        "clinicid": 16,
+        "area": "Dadar",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 600,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      }
+    ]
+  },
+  {
+    "doctorid": 11,
+    "name": "Merle Carney",
+    "education": "BMS",
+    "experience": 1,
+    "description": "Ex cupidatat adipisicing deserunt quis enim nostrud esse tempor eu ad ullamco quis. Est laborum mollit nostrud ullamco Lorem eu labore qui ea Lorem exercitation. Aliqua proident culpa aliquip ipsum pariatur mollit deserunt duis nostrud culpa eiusmod laboris excepteur eu. Ex et elit ut veniam Lorem irure. Ad ad sunt magna anim nostrud irure aliqua nostrud cillum.\r\n",
+    "specialization": "<ReferenceError: Dermatologist is not defined>",
+    "recommendations": 50,
+    "picture": "undefined",
+    "clinics": [
+      {
+        "clinicid": 8,
+        "area": "Koti",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 900,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      },
+      {
+        "clinicid": 29,
+        "area": "HSR Layout",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 300,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      }
+    ]
+  },
+  {
+    "doctorid": 12,
+    "name": "Bauer Lott",
+    "education": "MBBS",
+    "experience": 6,
+    "description": "Magna ullamco nulla qui anim ullamco sit sint proident dolor sunt. Consectetur velit culpa sit exercitation adipisicing qui aliquip ea reprehenderit incididunt ullamco laborum deserunt. Laborum anim in officia eu. Voluptate reprehenderit dolor nulla excepteur reprehenderit non exercitation consectetur in velit cillum eiusmod laborum deserunt. Excepteur cillum eiusmod sit non tempor tempor ullamco culpa dolor quis enim. Dolore consectetur ipsum ea excepteur fugiat nisi Lorem.\r\n",
+    "specialization": "<ReferenceError: Dermatologist is not defined>",
+    "recommendations": 108,
+    "picture": "undefined",
+    "clinics": [
+      {
+        "clinicid": 13,
+        "area": "Arakere",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 300,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      },
+      {
+        "clinicid": 12,
+        "area": "Madhapur",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 400,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      },
+      {
+        "clinicid": 64,
+        "area": "Koti",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 800,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      }
+    ]
+  },
+  {
+    "doctorid": 13,
+    "name": "Shannon Bernard",
+    "education": "MBBS",
+    "experience": 5,
+    "description": "Pariatur aliquip qui nisi aliqua irure cillum ut do aliquip incididunt nisi enim. Aute nostrud occaecat sit laboris esse sint velit esse eiusmod. Officia ex laboris deserunt magna velit magna proident aliqua in dolore dolor cillum fugiat minim. Labore mollit eu do aute cupidatat duis.\r\n",
+    "specialization": "<ReferenceError: Dermatologist is not defined>",
+    "recommendations": 91,
+    "picture": "undefined",
+    "clinics": [
+      {
+        "clinicid": 36,
+        "area": "Koti",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 500,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      },
+      {
+        "clinicid": 71,
+        "area": "Madhapur",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 800,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      },
+      {
+        "clinicid": 63,
+        "area": "Madhapur",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 600,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      }
+    ]
+  },
+  {
+    "doctorid": 14,
+    "name": "Lynne Mcfarland",
+    "education": "BMS",
+    "experience": 9,
+    "description": "Dolore enim amet nisi qui veniam pariatur sint labore laboris officia. Tempor sit Lorem incididunt pariatur in non in deserunt mollit tempor. Labore excepteur anim deserunt in ex ea officia esse. Labore officia amet sint cillum anim aliqua. In consequat magna ipsum consectetur incididunt velit excepteur eiusmod nulla do tempor occaecat ea. Consequat laborum id qui esse pariatur in velit.\r\n",
+    "specialization": "<ReferenceError: Dermatologist is not defined>",
+    "recommendations": 15,
+    "picture": "undefined",
+    "clinics": [
+      {
+        "clinicid": 99,
+        "area": "Collectorate",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 500,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      },
+      {
+        "clinicid": 8,
+        "area": "JP Nagar",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 300,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      }
+    ]
+  },
+  {
+    "doctorid": 15,
+    "name": "Elise Perry",
+    "education": "MBBS",
+    "experience": 2,
+    "description": "Est magna eiusmod ipsum incididunt adipisicing dolor magna magna. Sunt quis commodo veniam ipsum commodo amet anim fugiat exercitation adipisicing. Reprehenderit culpa eiusmod exercitation sit labore esse anim reprehenderit. Do laborum ullamco enim commodo anim veniam enim. Et ipsum minim incididunt pariatur aute mollit Lorem. Irure magna ipsum voluptate deserunt dolor velit velit minim.\r\n",
+    "specialization": "<ReferenceError: Dermatologist is not defined>",
+    "recommendations": 38,
+    "picture": "undefined",
+    "clinics": [
+      {
+        "clinicid": 29,
+        "area": "Cyberabad",
+        "completeaddress": "This is the complete address of the clinic",
+        "fee": 900,
+        "phone": "<SyntaxError: Unexpected identifier>",
+        "sponsored": "False"
+      }
+    ]
+  }
+]
